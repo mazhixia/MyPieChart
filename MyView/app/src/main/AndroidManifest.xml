@@ -18,8 +18,6 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".Btn2Activity" />
         <activity android:name=".Btn3Activity" />
-        <activity android:name=".Btn4Activity" />
-        <activity android:name=".Btn5Activity"></activity>
     </application>
 
 </manifest>

@@ -30,29 +30,4 @@
         android:text="动态饼图"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
-    <Button
-        android:id="@+id/btn4"
-        android:gravity="center"
-        android:textSize="20sp"
-        android:padding="8dp"
-        android:text="平面折线图"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-    <Button
-        android:id="@+id/btn5"
-        android:gravity="center"
-        android:textSize="20sp"
-        android:padding="8dp"
-        android:text="平面折线图"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-    <Button
-        android:id="@+id/btn6"
-        android:gravity="center"
-        android:textSize="20sp"
-        android:padding="8dp"
-        android:text="平面折线图"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
 </LinearLayout>
